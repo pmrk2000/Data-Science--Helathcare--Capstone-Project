@@ -41,6 +41,7 @@ Project Task: Week 4
 Data Modeling:
 
 Create a classification report by analyzing sensitivity, specificity, AUC (ROC curve), etc. Please be descriptive to explain what values of these parameter you have used.
+
 Data Reporting:
 
 Create a dashboard in tableau by choosing appropriate chart types and metrics useful for the business. The dashboard must entail the following:
@@ -53,3 +54,8 @@ c. Histogram or frequency charts to analyze the distribution of the data
 d. Heatmap of correlation analysis among the relevant variables
 
 e. Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different variables for these age brackets using a bubble chart.
+
+Tableau Dashboard:
+![Dashboard 1](https://user-images.githubusercontent.com/108510098/215336183-af23b7c6-d33a-4e1b-9247-a115dbeebaf8.png)
+
+
